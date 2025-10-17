@@ -1,6 +1,6 @@
 # 🧠 Submeson Brain Corporation
 
-“We think in waveforms. And sometimes in tape.”
+“We think in waveforms.”
 
 ---
 
