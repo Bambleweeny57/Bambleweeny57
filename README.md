@@ -88,12 +88,12 @@ To fuse legacy logic with modern mischief, crafting remixable platforms that hon
 
 ### 🧠 Lore Note
 
-The names *Bambleweeny57* and *Submeson Brain Company* are playful homages to Douglas Adams’ *The Hitchhiker’s Guide to the Galaxy*. They are used here in a spirit of creative tribute and retro computing fun. This project is not affiliated with Douglas Adams, his estate, or any official adaptation. All references are intended as respectful nods to the sci-fi legacy that inspired generations of tinkerers, builders, and waveform dreamers.
+> The names *Bambleweeny57* and *Submeson Brain Company* are playful homages to Douglas Adams’ *The Hitchhiker’s Guide to the Galaxy*. They are used here in a spirit of creative tribute and retro computing fun. This project is not affiliated with Douglas Adams, his estate, or any official adaptation. All references are intended as respectful nods to the sci-fi legacy that inspired generations of tinkerers, builders, and waveform dreamers.
 
 ---
 
 📜 Licensing Note  
-All original content is released under the [MIT License](LICENSE).  
+> All original content is released under the [MIT License](LICENSE).  
 References to *The Hitchhiker’s Guide to the Galaxy* are used in tribute and are not affiliated with or endorsed by the Douglas Adams estate.
 
 
