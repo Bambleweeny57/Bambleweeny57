@@ -19,7 +19,7 @@ To fuse legacy logic with modern mischief, crafting remixable platforms that hon
 ## 🛠️ Core Technologies
 
 - **ZXEightyZON Rev1.0**  
-  GAL16V8-based sound interface for ZX81/Spectrum systems. Builder-friendly, remixable, and designed for modular expansion.
+  GAL22V10-based sound interface for ZX81/Spectrum systems. Builder-friendly, remixable, and designed for modular expansion.
 
 - **TouchDuino**  
   Touchscreen digital cassette player that reimagines analog media with a modern interface. Designed for intuitive playback, archival access, and nostalgic interaction.
