@@ -83,3 +83,10 @@ To fuse legacy logic with modern mischief, crafting remixable platforms that hon
 > “Submeson Brain Corporation started as a joke between jumper wires and coffee breaks. But somewhere between the GAL logic maps and cassette UI overlays, it became a real platform—one that celebrates the joy of building, remixing, and storytelling through hardware.  
 > If you’re reading this, you’re part of the retroverse now. Welcome aboard.”  
 > — **bambleweeny57**
+>
+> ### 🧠 Lore Note
+
+---
+
+The names *Bambleweeny57* and *Submeson Brain Company* are playful homages to Douglas Adams’ *The Hitchhiker’s Guide to the Galaxy*. They are used here in a spirit of creative tribute and retro computing fun. This project is not affiliated with Douglas Adams, his estate, or any official adaptation. All references are intended as respectful nods to the sci-fi legacy that inspired generations of tinkerers, builders, and waveform dreamers.
+
